@@ -2,7 +2,7 @@
 
 - :computer: I’m currently working :on: multiple
 
-:aws: projects using python random :python:
+aws logo :aws: projects using python random :python:
 
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
