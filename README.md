@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-- :computer: I’m currently working :on: multiple
-
-- name: aws-es
-  src: https://raw.githubusercontent.com/Surgo/aws_emojipacks/master/emojis/es.png
- projects using python 
-
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
