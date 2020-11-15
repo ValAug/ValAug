@@ -1,5 +1,3 @@
-https://img.shields.io/static/v1?label=Auval&message=Welcome&color=blue
-
 <h1 align="center">
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 Hi there, I'm Augusto
