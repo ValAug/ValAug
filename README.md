@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- :computer: I’m currently working :on:
+
+<i class="fab fa-aws"></i> projects using <i class="fab fa-python"></i>
 
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
