@@ -5,7 +5,7 @@ Hi there, I'm Augusto
 </h1>
 
 
-###### Deployment services
+###### Cloud - :cloud:
 
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
 
