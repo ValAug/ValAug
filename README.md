@@ -1,5 +1,3 @@
-?style=for-the-badge&logo=appveyor
-
 <h1 align="center">
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 Hi there, I'm Augusto
