@@ -7,7 +7,7 @@ Hi there, I'm Augusto
 
 ###### Deployment services
 
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
 
 
 ###### Database
