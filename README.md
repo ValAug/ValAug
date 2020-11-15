@@ -18,6 +18,9 @@ Hi there, I'm Augusto
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
+###### Programing language
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
