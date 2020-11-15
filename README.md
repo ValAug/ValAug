@@ -20,6 +20,11 @@ Hi there, I'm Augusto
 
 ###### Programing language
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
+
+###### IaC
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-000000?style=flat&logo=CloudFormation)
 
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
