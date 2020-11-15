@@ -4,7 +4,6 @@ Hi there, I'm Augusto
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
-![Welcome]https://img.shields.io/badge/Welcome-To%20my%20projects-blue
 
 ###### Deployment services
 
@@ -14,6 +13,10 @@ Hi there, I'm Augusto
 ###### Database
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
+
+###### Version control system
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
