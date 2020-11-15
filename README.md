@@ -13,6 +13,8 @@ Hi there, I'm Augusto
 ###### Database
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
+![ValentinaDB](https://img.shields.io/badge/-ValentinaDB-000000?style=flat&logo=ValentinaDB&logoColor=336791)
+
 
 ###### Version control system
 
@@ -24,7 +26,7 @@ Hi there, I'm Augusto
 
 ###### IaC
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
-![CloudFormation](https://img.shields.io/badge/-CloudFormation-000000?style=flat&logo=CloudFormation&logoColor=FF9900)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-000000?style=flat&logo=Color=FF9900)
 
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
