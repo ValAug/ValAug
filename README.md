@@ -24,7 +24,7 @@ Welcome to my projects load
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
 
-###### IaC
+###### IaaC
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-000000?style=flat&logo=Color=FF9900)
 
