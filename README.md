@@ -1,3 +1,11 @@
+
+<!-- retro visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/{ValAug}/count.svg" />
+</p>
+
+
+
 <h1 align="center">
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 Welcome to my projects load
