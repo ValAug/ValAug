@@ -1,4 +1,4 @@
-![Banner](https://github.com/ValAug/ValAug/blob/master/Black%20Technology%20LinkedIn%20Banner.png)
+![Banner](https://github.com/ValAug/ValAug/blob/master/cover.png)
 
 <!-- retro visitor counter -->
 <p align="center"> 
