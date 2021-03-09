@@ -44,7 +44,12 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-000000?style=flat&logo=Color=FF9900)
 
-
+###### Web
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=ReactNative)
+![Html](https://img.shields.io/badge/-Html-000000?style=flat&logo=Html)
+![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=Css)
+![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
