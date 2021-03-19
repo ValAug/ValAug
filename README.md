@@ -52,10 +52,11 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
+<b>⚡ My DevOps Statistics ⚡</b>
 
 <p>
 <!-- GitHub Stats -->
