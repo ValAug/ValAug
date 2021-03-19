@@ -50,6 +50,11 @@
 ![Html](https://img.shields.io/badge/-Html-000000?style=flat&logo=Html)
 ![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=Css)
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
