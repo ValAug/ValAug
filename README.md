@@ -60,7 +60,6 @@
  > 
 > 📦 1.3 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
