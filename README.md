@@ -52,11 +52,11 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 161 Contributions in the Year 2021
+> 🏆 162 Contributions in the Year 2021
  > 
 > 📦 1.3 kB Used in Github's Storage 
  > 
