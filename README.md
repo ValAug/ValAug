@@ -95,16 +95,16 @@ Sunday       40 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                12 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LambdaAPIResearch        12 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.0%
 
 ```
 
