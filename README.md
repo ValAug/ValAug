@@ -23,6 +23,10 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Augusto Valdivia's DEV Community Profile" height="30" width="30">
 </a>
 
+<a href="https://dev.to/valaug">
+  <i class="fab fa-dev" title="valaug's DEV Community Profile"></i>
+</a>
+
 ###### Cloud - :cloud:
 
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
