@@ -5,9 +5,9 @@
   <img src="https://profile-counter.glitch.me/{ValAug}/count.svg" />
 </p>
 
-[![Augusto Valdivia's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/valaug)
-
-
+<a href="https://dev.to/valaug">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Augusto Valdivia's DEV Community Profile" height="30" width="30">
+</a>
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
