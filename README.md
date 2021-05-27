@@ -5,9 +5,7 @@
   <img src="https://profile-counter.glitch.me/{ValAug}/count.svg" />
 </p>
 
-<a href="https://dev.to/valaug">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Augusto Valdivia's DEV Community Profile" height="30" width="30">
-</a>
+
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
@@ -21,6 +19,9 @@
 <a href="https://www.linkedin.com/in/augustovaldivia/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>
 
+<a href="https://dev.to/valaug">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Augusto Valdivia's DEV Community Profile" height="30" width="30">
+</a>
 
 ###### Cloud - :cloud:
 
