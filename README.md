@@ -33,6 +33,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
 ![ValentinaDB](https://img.shields.io/badge/-ValentinaDB-000000?style=flat&logo=ValentinaDB&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=MongoDB)
 
 
 ###### Version control system
