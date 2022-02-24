@@ -42,17 +42,17 @@
 
 ###### Programing language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ###### IaaC
-![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-000000?style=flat&logo=Color=FF9900)
 
 ###### Web
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=ReactNative)
-![Html](https://img.shields.io/badge/-Html-000000?style=flat&logo=Html)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/-Css-000000?style=flat&logo=Css)
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
