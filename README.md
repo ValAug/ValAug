@@ -26,22 +26,22 @@
 
 ###### Cloud - :cloud:
 
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ###### Database
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ValentinaDB](https://img.shields.io/badge/-ValentinaDB-000000?style=flat&logo=ValentinaDB&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ###### Version control system
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ###### Programing language
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
 
 
