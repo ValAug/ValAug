@@ -144,16 +144,12 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- GitHub stats -->
 <b>⚡ My DevOps Statistics ⚡</b>
 
-<p>
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValAug&show_icons=true&hide_border=true" />
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ValAug&theme=github_dark&show_icons=true)
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValAug&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ValAug&theme=dark&show_icons=true)
 
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
