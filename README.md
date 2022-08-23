@@ -151,7 +151,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValAug&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-# Blog posts
+# My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
 - [The Relational DBs &lpar;RDB&rpar;](https://dev.to/aws-builders/the-relational-dbs-rdb-1lf2)
 - [There will be 175 Zettabytes of data in the world by 2025. Where will we store it?](https://dev.to/aws-builders/there-will-be-175-zettabytes-of-data-in-the-world-by-2025-where-will-we-store-it-1ck4)
