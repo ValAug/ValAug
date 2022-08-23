@@ -140,6 +140,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 01/10/2021
 <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
 <b>⚡ My DevOps Statistics ⚡</b>
@@ -159,9 +160,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 - [VPCe + S3 deployment using Terraform](https://dev.to/aws-builders/vpce-s3-deployment-using-terraform-12n0)
 - [How to securely deploy an AWS-S3 bucket with Terraform](https://dev.to/aws-builders/how-to-securely-deploy-an-aws-s3-bucket-with-terraform-27lp)
 <!-- BLOG-POST-LIST:END -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
