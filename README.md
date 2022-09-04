@@ -57,9 +57,9 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,48 +73,6 @@
  > 
 > 🔑 7 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    353 commits    █████████░░░░░░░░░░░░░░░░   38.29% 
-🌆 Daytime    457 commits    ████████████░░░░░░░░░░░░░   49.57% 
-🌃 Evening    112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       154 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
-Tuesday      134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
-Wednesday    197 commits    █████░░░░░░░░░░░░░░░░░░░░   21.37% 
-Thursday     204 commits    █████░░░░░░░░░░░░░░░░░░░░   22.13% 
-Friday       168 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
-Saturday     30 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
-Sunday       35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in HCL** 
 
 ```text
@@ -132,7 +90,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ValAug/ValAug/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 13:33:44 UTC
+ Last Updated on 04/09/2022 13:34:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
