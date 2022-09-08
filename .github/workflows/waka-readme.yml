@@ -3,7 +3,7 @@
   on:
     schedule:
       # Runs at 12pm EST
-      - cron: '0 13 * * *'
+      - cron: '0 0 * * *'
 
   jobs:
     update-readme:
