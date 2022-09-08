@@ -129,7 +129,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ValAug/ValAug/master/charts/bar_graph.png) 
+![Chart](https://raw.githubusercontent.com/ValAug/ValAug/master/charts/bar_graph.png) 
 
 
  Last Updated on 08/09/2022 19:23:41 UTC
@@ -153,6 +153,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 - [How to increase your email quota from 200 to 50,000 messages per day within 24 hours with AWS-SES](https://dev.to/aws-builders/how-to-increase-your-email-quota-from-200-to-50000-messages-per-day-within-24-hours-with-aws-ses-j53)
 - [VPCe + S3 deployment using Terraform](https://dev.to/aws-builders/vpce-s3-deployment-using-terraform-12n0)
 <!-- BLOG-POST-LIST:END -->
+
+# My followers
+<!--START_SECTION:top-followers--> 
+<!--END_SECTION:top-followers-->
+
 
 <!--
 **ValAug/ValAug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
