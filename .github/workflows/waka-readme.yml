@@ -2,8 +2,8 @@
 
   on:
     schedule:
-      # Runs at 12pm EST
-      - cron: '0 0 * * *'
+      # Runs at 12AM EST
+      - cron: '20 0 * * *'
 
   jobs:
     update-readme:
