@@ -155,7 +155,69 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 
 # My followers
-<!--START_SECTION:top-followers--> 
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/medesko">
+        <img src="https://avatars2.githubusercontent.com/u/1578048" width="100px;" alt="medesko"/>
+      </a>
+      <br />
+      <a href="https://github.com/medesko">Mohamed KEITA</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bsneider">
+        <img src="https://avatars2.githubusercontent.com/u/54788551" width="100px;" alt="bsneider"/>
+      </a>
+      <br />
+      <a href="https://github.com/bsneider">Brandon Sneider</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seyal84">
+        <img src="https://avatars2.githubusercontent.com/u/30797156" width="100px;" alt="seyal84"/>
+      </a>
+      <br />
+      <a href="https://github.com/seyal84">seyal84</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alopezt24">
+        <img src="https://avatars2.githubusercontent.com/u/11953522" width="100px;" alt="alopezt24"/>
+      </a>
+      <br />
+      <a href="https://github.com/alopezt24">Andres Lopez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xbalaji">
+        <img src="https://avatars2.githubusercontent.com/u/15918363" width="100px;" alt="xbalaji"/>
+      </a>
+      <br />
+      <a href="https://github.com/xbalaji">Balaji (xbalaji) Venkataraman</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/techcontrib">
+        <img src="https://avatars2.githubusercontent.com/u/54937605" width="100px;" alt="techcontrib"/>
+      </a>
+      <br />
+      <a href="https://github.com/techcontrib">Nilesh Joshi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jineshkumar1">
+        <img src="https://avatars2.githubusercontent.com/u/85137150" width="100px;" alt="Jineshkumar1"/>
+      </a>
+      <br />
+      <a href="https://github.com/Jineshkumar1">Jineshkumar</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/selvakumarsai">
+        <img src="https://avatars2.githubusercontent.com/u/88017125" width="100px;" alt="selvakumarsai"/>
+      </a>
+      <br />
+      <a href="https://github.com/selvakumarsai">selvakumarsai</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 
