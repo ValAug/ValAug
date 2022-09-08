@@ -154,7 +154,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 - [VPCe + S3 deployment using Terraform](https://dev.to/aws-builders/vpce-s3-deployment-using-terraform-12n0)
 <!-- BLOG-POST-LIST:END -->
 
-# My followers
+# Followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
