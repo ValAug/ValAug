@@ -10,12 +10,15 @@
       name: Update Readme with Metrics
       runs-on: ubuntu-latest
       steps:
-        - uses: athul/waka-readme@master
+        - uses: anmol098/waka-readme-stats@master
           with:
             WAKATIME_API_KEY: ${{ secrets.WAKA_KEY }}
             GH_TOKEN: ${{ secrets.GH_TOK }}
-            SHOW_TITLE: true
-            BLOCKS: ->
-            TIME_RANGE: all_time
-            SHOW_TIME: true
-            SHOW_MASKED_TIME: true
+            SHOW_PROJECTS: "False"
+            SHOW_OS: "False"
+            SYMBOL_VERSION: 1
+            SHOW_LANGUAGE_PER_REPO: "True"
+            SHOW_COMMIT: "True"
+            SHOW_TOTAL_CODE_TIME: "True"
+            SHOW_LINES_OF_CODE: "True"
+
