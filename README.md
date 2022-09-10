@@ -57,17 +57,78 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2030%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 508 Contributions in the Year 2022
+ > 
+> 📦 15.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
-From: 19 March 2021 - To: 08 September 2022
+🌞 Morning    364 commits    █████████░░░░░░░░░░░░░░░░   37.56% 
+🌆 Daytime    489 commits    ████████████░░░░░░░░░░░░░   50.46% 
+🌃 Evening    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-Total Time: 542 hrs 30 mins
+```
+📅 **I'm Most Productive on Thursday** 
 
-Terraform    359 hrs 20 mins >>>>>>>>>>>>>>>>>--------   66.24 %
-Markdown     45 hrs 49 mins  >>-----------------------   08.45 %
-Other        26 hrs 21 mins  >------------------------   04.86 %
+```text
+Monday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
+Tuesday      156 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+Wednesday    208 commits    █████░░░░░░░░░░░░░░░░░░░░   21.47% 
+Thursday     214 commits    █████░░░░░░░░░░░░░░░░░░░░   22.08% 
+Friday       169 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
+Saturday     30 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
+Sunday       35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HCL** 
+
+```text
+HCL                      20 repos            ███████████████████░░░░░░   76.92% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ValAug/ValAug/master/charts/bar_graph.png) 
+
+
+ Last Updated on 10/09/2022 02:48:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
