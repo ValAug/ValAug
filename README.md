@@ -57,15 +57,15 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 523 Contributions in the Year 2022
+> 🏆 526 Contributions in the Year 2022
  > 
 > 📦 15.8 kB Used in GitHub's Storage 
  > 
@@ -75,6 +75,46 @@
  > 
 > 🔑 7 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    368 commits    █████████░░░░░░░░░░░░░░░░   37.36% 
+🌆 Daytime    497 commits    ████████████░░░░░░░░░░░░░   50.46% 
+🌃 Evening    120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       160 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
+Tuesday      167 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
+Wednesday    211 commits    █████░░░░░░░░░░░░░░░░░░░░   21.42% 
+Thursday     213 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+Friday       169 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+Saturday     30 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
+Sunday       35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+Terraform                7 hrs 35 mins       ███████████████████░░░░░░   77.95% 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+
+🔥 Editors: 
+VS Code                  9 hrs 44 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in HCL** 
 
 ```text
@@ -92,7 +132,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ValAug/ValAug/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 11:32:26 UTC
+ Last Updated on 15/09/2022 03:00:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
