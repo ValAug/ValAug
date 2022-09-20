@@ -147,11 +147,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [The Document DB &lpar;Amazon DocumentDB&rpar;](https://dev.to/aws-builders/the-document-db-amazon-documentdb-56fo)
 - [The Non-Relational DB&lpar;NoSQL&rpar;](https://dev.to/aws-builders/the-relational-dbs-rdb-2mm2)
 - [The Relational DBs &lpar;RDB&rpar;](https://dev.to/aws-builders/the-relational-dbs-rdb-1lf2)
 - [There will be 175 Zettabytes of data in the world by 2025. Where will we store it?](https://dev.to/aws-builders/there-will-be-175-zettabytes-of-data-in-the-world-by-2025-where-will-we-store-it-1ck4)
 - [How to increase your email quota from 200 to 50,000 messages per day within 24 hours with AWS-SES](https://dev.to/aws-builders/how-to-increase-your-email-quota-from-200-to-50000-messages-per-day-within-24-hours-with-aws-ses-j53)
-- [VPCe + S3 deployment using Terraform](https://dev.to/aws-builders/vpce-s3-deployment-using-terraform-12n0)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
