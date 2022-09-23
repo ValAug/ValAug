@@ -57,9 +57,9 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53%20Thousand%20lines%20of%20code-blue)
 
@@ -104,14 +104,14 @@ Sunday       35 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Terraform                7 hrs 23 mins       ██████████████░░░░░░░░░░░   57.82% 
-YAML                     2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   23.37% 
-JavaScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
-Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+Terraform                6 hrs 30 mins       █████████████░░░░░░░░░░░░   55.46% 
+YAML                     2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49% 
+JavaScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
 
 🔥 Editors: 
-VS Code                  12 hrs 47 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +132,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ValAug/ValAug/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 02:41:25 UTC
+ Last Updated on 23/09/2022 02:55:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
