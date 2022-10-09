@@ -57,7 +57,7 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -104,13 +104,13 @@ Sunday       36 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Terraform                10 hrs 25 mins      ███████████████████████░░   95.13% 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+Terraform                9 hrs 44 mins       ███████████████████████░░   94.81% 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  10 hrs 57 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
@@ -131,7 +131,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ValAug/ValAug/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/10/2022 02:24:16 UTC
+ Last Updated on 09/10/2022 02:49:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
