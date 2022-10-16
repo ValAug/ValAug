@@ -147,11 +147,11 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Timestream](https://dev.to/aws-builders/amazon-timestream-h42)
 - [The in-memory &amp; cache DB &lpar;Amazon ElastiCache&rpar;](https://dev.to/aws-builders/the-in-memory-cache-db-amazon-elasticache-3d4a)
 - [The Document DB &lpar;Amazon DocumentDB&rpar;](https://dev.to/aws-builders/the-document-db-amazon-documentdb-56fo)
 - [The Non-Relational DB&lpar;NoSQL&rpar;](https://dev.to/aws-builders/the-relational-dbs-rdb-2mm2)
 - [The Relational DBs &lpar;RDB&rpar;](https://dev.to/aws-builders/the-relational-dbs-rdb-1lf2)
-- [There will be 175 Zettabytes of data in the world by 2025. Where will we store it?](https://dev.to/aws-builders/there-will-be-175-zettabytes-of-data-in-the-world-by-2025-where-will-we-store-it-1ck4)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
