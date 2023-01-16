@@ -191,27 +191,27 @@ CSS                      1 repo              █░░░░░░░░░░�
       <a href="https://github.com/PUSH-PRAG">Pushparaj</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Jineshkumar1">
+        <img src="https://avatars2.githubusercontent.com/u/85137150" width="100px;" alt="Jineshkumar1"/>
+      </a>
+      <br />
+      <a href="https://github.com/Jineshkumar1">Jineshkumar</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/xbalaji">
         <img src="https://avatars2.githubusercontent.com/u/15918363" width="100px;" alt="xbalaji"/>
       </a>
       <br />
       <a href="https://github.com/xbalaji">Balaji (xbalaji) Venkataraman</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/techcontrib">
         <img src="https://avatars2.githubusercontent.com/u/54937605" width="100px;" alt="techcontrib"/>
       </a>
       <br />
       <a href="https://github.com/techcontrib">Nilesh Joshi</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Jineshkumar1">
-        <img src="https://avatars2.githubusercontent.com/u/85137150" width="100px;" alt="Jineshkumar1"/>
-      </a>
-      <br />
-      <a href="https://github.com/Jineshkumar1">Jineshkumar</a>
     </td>
     <td align="center">
       <a href="https://github.com/selvakumarsai">
