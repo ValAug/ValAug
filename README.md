@@ -220,6 +220,13 @@ CSS                      1 repo              █░░░░░░░░░░�
       <br />
       <a href="https://github.com/selvakumarsai">selvakumarsai</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/gopalagabbita">
+        <img src="https://avatars2.githubusercontent.com/u/107900800" width="100px;" alt="gopalagabbita"/>
+      </a>
+      <br />
+      <a href="https://github.com/gopalagabbita">Gopala Gabbita</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
