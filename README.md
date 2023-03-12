@@ -170,18 +170,18 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/bsneider">Brandon Sneider</a>
     </td>
     <td align="center">
-      <a href="https://github.com/PUSH-PRAG">
-        <img src="https://avatars2.githubusercontent.com/u/25321116" width="100px;" alt="PUSH-PRAG"/>
-      </a>
-      <br />
-      <a href="https://github.com/PUSH-PRAG">Pushparaj</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/alopezt24">
         <img src="https://avatars2.githubusercontent.com/u/11953522" width="100px;" alt="alopezt24"/>
       </a>
       <br />
       <a href="https://github.com/alopezt24">Andres Lopez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PUSH-PRAG">
+        <img src="https://avatars2.githubusercontent.com/u/25321116" width="100px;" alt="PUSH-PRAG"/>
+      </a>
+      <br />
+      <a href="https://github.com/PUSH-PRAG">Pushparaj</a>
     </td>
     <td align="center">
       <a href="https://github.com/seyal84">
