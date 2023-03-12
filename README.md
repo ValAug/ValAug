@@ -144,11 +144,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to AWS IoT Core: What it is, How it helps, and Real-World use Cases. Mini-Project-Intro](https://dev.to/aws-builders/the-ultimate-guide-to-aws-iot-core-what-it-is-how-it-helps-and-real-world-use-cases-mini-project-intro-3agn)
 - [AWS Community Builders X-mass edition](https://dev.to/aws-builders/aws-community-builders-x-mass-edition-2fnk)
 - [The Amazon Timestream](https://dev.to/aws-builders/amazon-timestream-h42)
 - [The in-memory &amp; cache DB &lpar;Amazon ElastiCache&rpar;](https://dev.to/aws-builders/the-in-memory-cache-db-amazon-elasticache-3d4a)
 - [The Document DB &lpar;Amazon DocumentDB&rpar;](https://dev.to/aws-builders/the-document-db-amazon-documentdb-56fo)
-- [The Non-Relational DB&lpar;NoSQL&rpar;](https://dev.to/aws-builders/the-relational-dbs-rdb-2mm2)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
