@@ -144,11 +144,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform, Lambda, and Event Bridge: The perfect trio for AWS cost optimization](https://dev.to/aws-builders/terraform-lambda-and-event-bridge-the-perfect-trio-for-aws-cost-optimization-4ig0)
 - [AWS Certifications a solid foundation for building your Cloud Computing career](https://dev.to/aws-builders/aws-certifications-a-solid-foundation-for-building-your-cloud-computing-career-gga)
 - [From Installation to Database: How to connect your IoT devices with AWS IoT Core and Timestream using Terraform](https://dev.to/aws-builders/from-installation-to-database-how-to-connect-your-iot-devices-with-aws-iot-core-and-timestream-using-terraform-bb9)
 - [From Zero to Hero: A Beginner&#39;s Guide to AWS IoT Things, Certificates, Policies, Rules, and Topics](https://dev.to/aws-builders/from-zero-to-hero-a-beginners-guide-to-aws-iot-things-certificates-policies-rules-and-topics-5632)
 - [The Ultimate Guide to AWS IoT Core: What it is, How it helps, and Real-World use Cases. Mini-Project-Intro](https://dev.to/aws-builders/the-ultimate-guide-to-aws-iot-core-what-it-is-how-it-helps-and-real-world-use-cases-mini-project-intro-3agn)
-- [AWS Community Builders X-mass edition](https://dev.to/aws-builders/aws-community-builders-x-mass-edition-2fnk)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
