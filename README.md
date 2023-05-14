@@ -161,13 +161,6 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/medesko">Mohamed KEITA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bsneider">
-        <img src="https://avatars2.githubusercontent.com/u/54788551" width="100px;" alt="bsneider"/>
-      </a>
-      <br />
-      <a href="https://github.com/bsneider">Brandon Sneider</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/seyal84">
         <img src="https://avatars2.githubusercontent.com/u/30797156" width="100px;" alt="seyal84"/>
       </a>
@@ -202,8 +195,6 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <br />
       <a href="https://github.com/xbalaji">Balaji (xbalaji) Venkataraman</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/techcontrib">
         <img src="https://avatars2.githubusercontent.com/u/54937605" width="100px;" alt="techcontrib"/>
@@ -211,6 +202,8 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <br />
       <a href="https://github.com/techcontrib">Nilesh Joshi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/selvakumarsai">
         <img src="https://avatars2.githubusercontent.com/u/88017125" width="100px;" alt="selvakumarsai"/>
@@ -224,6 +217,13 @@ Dart                     1 repo              ░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/gopalagabbita">Gopala Gabbita</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bsneider">
+        <img src="https://avatars2.githubusercontent.com/u/54788551" width="100px;" alt="bsneider"/>
+      </a>
+      <br />
+      <a href="https://github.com/bsneider">Brandon Sneider</a>
     </td>
   </tr>
 </table>
