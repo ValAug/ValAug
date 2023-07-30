@@ -144,7 +144,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
-- [Una Montaña Rusa de Emociones: Mi Experiencia Hablando en el AWS Summit 2023 en Toronto](https://dev.to/valaug/una-montana-rusa-de-emociones-mi-experiencia-hablando-en-el-aws-summit-2023-en-toronto-416e)
+- [Una Montaña Rusa de Emociones: Mi Experiencia Hablando en el AWS Summit 2023 en Toronto](https://dev.to/aws-builders/una-montana-rusa-de-emociones-mi-experiencia-hablando-en-el-aws-summit-2023-en-toronto-416e)
 - [A Roller Coaster Ride: My Experience Speaking at the AWS Summit 2023 in Toronto](https://dev.to/aws-builders/a-roller-coaster-ride-my-experience-speaking-at-the-aws-summit-2023-in-toronto-obl)
 - [Terraform, Lambda, and Event Bridge: The perfect trio for AWS cost optimization](https://dev.to/aws-builders/terraform-lambda-and-event-bridge-the-perfect-trio-for-aws-cost-optimization-4ig0)
 - [AWS Certifications a solid foundation for building your Cloud Computing career](https://dev.to/aws-builders/aws-certifications-a-solid-foundation-for-building-your-cloud-computing-career-gga)
