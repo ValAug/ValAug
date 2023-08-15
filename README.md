@@ -140,11 +140,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Descubre el Futuro en la Nube con AWS y Terraform Únete a la Revolución Tecnológica en Español](https://dev.to/aws-builders/descubre-el-futuro-en-la-nube-con-aws-y-terraform-unete-a-la-revolucion-tecnologica-en-espanol-2pi0)
 - [99 Problems? Amazon QuickSight Solves Every Single One](https://dev.to/aws-builders/99-problems-amazon-quicksight-solves-every-single-one-4ngc)
 - [Una Montaña Rusa de Emociones: Mi Experiencia Hablando en el AWS Summit 2023 en Toronto](https://dev.to/aws-builders/una-montana-rusa-de-emociones-mi-experiencia-hablando-en-el-aws-summit-2023-en-toronto-416e)
 - [A Roller Coaster Ride: My Experience Speaking at the AWS Summit 2023 in Toronto](https://dev.to/aws-builders/a-roller-coaster-ride-my-experience-speaking-at-the-aws-summit-2023-in-toronto-obl)
 - [Terraform, Lambda, and Event Bridge: The perfect trio for AWS cost optimization](https://dev.to/aws-builders/terraform-lambda-and-event-bridge-the-perfect-trio-for-aws-cost-optimization-4ig0)
-- [AWS Certifications a solid foundation for building your Cloud Computing career](https://dev.to/aws-builders/aws-certifications-a-solid-foundation-for-building-your-cloud-computing-career-gga)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
