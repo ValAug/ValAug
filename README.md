@@ -143,11 +143,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Una Montaña Rusa de Emociones: Mi Experiencia Hablando en el AWS Summit 2023 en Toronto](https://dev.to/aws-espanol/una-montana-rusa-de-emociones-mi-experiencia-hablando-en-el-aws-summit-2023-en-toronto-367j)
 - [How EventBridge Scheduler simplifies task coordination with 270+ AWS services and 6,000+ APIs](https://dev.to/aws-builders/how-eventbridge-scheduler-simplifies-task-coordination-with-270-aws-services-and-6000-apis-3244)
 - [Descubre el Futuro en la Nube con AWS y Terraform Únete a la Revolución Tecnológica en Español](https://dev.to/aws-builders/descubre-el-futuro-en-la-nube-con-aws-y-terraform-unete-a-la-revolucion-tecnologica-en-espanol-2pi0)
 - [99 Problems? Amazon QuickSight Solves Every Single One](https://dev.to/aws-builders/99-problems-amazon-quicksight-solves-every-single-one-4ngc)
 - [Una Montaña Rusa de Emociones: Mi Experiencia Hablando en el AWS Summit 2023 en Toronto](https://dev.to/aws-builders/una-montana-rusa-de-emociones-mi-experiencia-hablando-en-el-aws-summit-2023-en-toronto-416e)
-- [A Roller Coaster Ride: My Experience Speaking at the AWS Summit 2023 in Toronto](https://dev.to/aws-builders/a-roller-coaster-ride-my-experience-speaking-at-the-aws-summit-2023-in-toronto-obl)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
