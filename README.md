@@ -155,6 +155,13 @@ Dart                     1 repo              ░░░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/gcjordi">
+        <img src="https://avatars2.githubusercontent.com/u/24922487" width="100px;" alt="gcjordi"/>
+      </a>
+      <br />
+      <a href="https://github.com/gcjordi">Jordi Garcia Castillon</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gmaheshraju">
         <img src="https://avatars2.githubusercontent.com/u/21260123" width="100px;" alt="gmaheshraju"/>
       </a>
@@ -196,6 +203,8 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Jineshkumar1">Jinesh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/xbalaji">
         <img src="https://avatars2.githubusercontent.com/u/15918363" width="100px;" alt="xbalaji"/>
@@ -203,8 +212,6 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <br />
       <a href="https://github.com/xbalaji">Balaji (xbalaji) Venkataraman</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/techcontrib">
         <img src="https://avatars2.githubusercontent.com/u/54937605" width="100px;" alt="techcontrib"/>
