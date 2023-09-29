@@ -143,11 +143,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Lee esto antes de Implementar VPC Endpoints y S3 con Terraform](https://dev.to/aws-espanol/lee-esto-antes-de-implementar-vpc-endpoints-y-s3-con-terraform-47bp)
 - [Lee esto antes de crear una flota de AWS EC2s con Terraform](https://dev.to/aws-espanol/lee-esto-antes-de-crear-una-flota-de-aws-ec2s-con-terraform-2cod)
 - [Una Montaña Rusa de Emociones: Mi Experiencia Hablando en el AWS Summit 2023 en Toronto](https://dev.to/aws-espanol/una-montana-rusa-de-emociones-mi-experiencia-hablando-en-el-aws-summit-2023-en-toronto-367j)
 - [How EventBridge Scheduler simplifies task coordination with 270+ AWS services and 6,000+ APIs](https://dev.to/aws-builders/how-eventbridge-scheduler-simplifies-task-coordination-with-270-aws-services-and-6000-apis-3244)
 - [Descubre el Futuro en la Nube con AWS y Terraform Únete a la Revolución Tecnológica en Español](https://dev.to/aws-builders/descubre-el-futuro-en-la-nube-con-aws-y-terraform-unete-a-la-revolucion-tecnologica-en-espanol-2pi0)
-- [99 Problems? Amazon QuickSight Solves Every Single One](https://dev.to/aws-builders/99-problems-amazon-quicksight-solves-every-single-one-4ngc)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
