@@ -187,12 +187,21 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/seyal84">seyal84</a>
     </td>
     <td align="center">
+      <a href="https://github.com/superissy">
+        <img src="https://avatars2.githubusercontent.com/u/80710703" width="100px;" alt="superissy"/>
+      </a>
+      <br />
+      <a href="https://github.com/superissy">Oluwaseun Musa</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/alopezt24">
         <img src="https://avatars2.githubusercontent.com/u/11953522" width="100px;" alt="alopezt24"/>
       </a>
       <br />
       <a href="https://github.com/alopezt24">Andres Lopez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Jineshkumar1">
         <img src="https://avatars2.githubusercontent.com/u/85137150" width="100px;" alt="Jineshkumar1"/>
@@ -200,8 +209,6 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <br />
       <a href="https://github.com/Jineshkumar1">Jinesh</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/xbalaji">
         <img src="https://avatars2.githubusercontent.com/u/15918363" width="100px;" alt="xbalaji"/>
