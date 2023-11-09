@@ -140,11 +140,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Cómo aumentar tu cuota de correo electrónico de 200 a 50,000 mensajes por día en 24 horas con AWS-SES.](https://dev.to/aws-espanol/como-aumentar-tu-cuota-de-correo-electronico-de-200-a-50000-mensajes-por-dia-en-24-horas-con-aws-ses-29ok)
 - [Terraform, Lambda y Event Bridge: El trío perfecto para la optimización de costos en AWS](https://dev.to/aws-espanol/terraform-lambda-y-event-bridge-el-trio-perfecto-para-la-optimizacion-de-costos-en-aws-17gm)
 - [Unlocking AWS Security with Security Hub](https://dev.to/aws-builders/unlocking-aws-security-with-security-hub-6m5)
 - [Lee esto antes de Implementar VPC Endpoint con S3 con Terraform](https://dev.to/aws-espanol/lee-esto-antes-de-implementar-vpc-endpoints-y-s3-con-terraform-47bp)
 - [Lee esto antes de crear una flota de AWS EC2s con Terraform](https://dev.to/aws-espanol/lee-esto-antes-de-crear-una-flota-de-aws-ec2s-con-terraform-2cod)
-- [Una Montaña Rusa de Emociones: Mi Experiencia Hablando en el AWS Summit 2023 en Toronto](https://dev.to/aws-espanol/una-montana-rusa-de-emociones-mi-experiencia-hablando-en-el-aws-summit-2023-en-toronto-367j)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
