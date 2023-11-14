@@ -140,7 +140,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
-- [Cómo aumentar tu cuota de correo electrónico de 200 a 50,000 mensajes por día en 24 horas con AWS-SES.](https://dev.to/aws-espanol/como-aumentar-tu-cuota-de-correo-electronico-de-200-a-50000-mensajes-por-dia-en-24-horas-con-aws-ses-29ok)
+- [Cómo aumentar tu cuota de correo electrónico de 200 a 50,000 mensajes por día en 24 horas con AWS-SES](https://dev.to/aws-espanol/como-aumentar-tu-cuota-de-correo-electronico-de-200-a-50000-mensajes-por-dia-en-24-horas-con-aws-ses-29ok)
 - [Terraform, Lambda y Event Bridge: El trío perfecto para la optimización de costos en AWS](https://dev.to/aws-espanol/terraform-lambda-y-event-bridge-el-trio-perfecto-para-la-optimizacion-de-costos-en-aws-17gm)
 - [Unlocking AWS Security with Security Hub](https://dev.to/aws-builders/unlocking-aws-security-with-security-hub-6m5)
 - [Lee esto antes de Implementar VPC Endpoint con S3 con Terraform](https://dev.to/aws-espanol/lee-esto-antes-de-implementar-vpc-endpoints-y-s3-con-terraform-47bp)
