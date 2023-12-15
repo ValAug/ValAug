@@ -102,14 +102,10 @@ Sunday                   101 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Terraform                59 mins             ████████████████░░░░░░░░░   66.00 % 
-HCL                      23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HCL** 
@@ -129,7 +125,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2023 01:21:27 UTC
+ Last Updated on 15/12/2023 01:23:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
