@@ -140,11 +140,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-builders/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-5931)
+- [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-espanol/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-1oia)
 - [Gana $50 dólares en créditos de AWS mientras aprendes sobre DevOps y AWS en español](https://dev.to/aws-builders/gana-50-dolares-en-creditos-de-aws-mientras-aprendes-sobre-devops-y-aws-en-espanol-mpp)
 - [Gana $50 dólares en créditos de AWS mientras aprendes sobre DevOps y AWS en español](https://dev.to/aws-espanol/gana-50-dolares-en-creditos-de-aws-mientras-aprendes-sobre-devops-y-aws-en-espanol-7k3)
 - [Cómo aumentar tu cuota de correo electrónico de 200 a 50,000 mensajes por día en 24 horas con AWS-SES](https://dev.to/aws-espanol/como-aumentar-tu-cuota-de-correo-electronico-de-200-a-50000-mensajes-por-dia-en-24-horas-con-aws-ses-29ok)
-- [Terraform, Lambda y Event Bridge: El trío perfecto para la optimización de costos en AWS](https://dev.to/aws-espanol/terraform-lambda-y-event-bridge-el-trio-perfecto-para-la-optimizacion-de-costos-en-aws-17gm)
-- [Unlocking AWS Security with Security Hub](https://dev.to/aws-builders/unlocking-aws-security-with-security-hub-6m5)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
