@@ -210,7 +210,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/80710703" width="100px;" alt="superissy"/>
       </a>
       <br />
-      <a href="https://github.com/superissy">Oluwaseun Musa</a>
+      <a href="https://github.com/superissy">Seun Musa</a>
     </td>
     <td align="center">
       <a href="https://github.com/alopezt24">
