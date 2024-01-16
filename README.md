@@ -143,11 +143,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-espanol/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4nmi)
+- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-builders/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4im6)
 - [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-builders/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-5931)
 - [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-espanol/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-1oia)
 - [Gana $50 dólares en créditos de AWS mientras aprendes sobre DevOps y AWS en español](https://dev.to/aws-builders/gana-50-dolares-en-creditos-de-aws-mientras-aprendes-sobre-devops-y-aws-en-espanol-mpp)
-- [Gana $50 dólares en créditos de AWS mientras aprendes sobre DevOps y AWS en español](https://dev.to/aws-espanol/gana-50-dolares-en-creditos-de-aws-mientras-aprendes-sobre-devops-y-aws-en-espanol-7k3)
-- [Cómo aumentar tu cuota de correo electrónico de 200 a 50,000 mensajes por día en 24 horas con AWS-SES](https://dev.to/aws-espanol/como-aumentar-tu-cuota-de-correo-electronico-de-200-a-50000-mensajes-por-dia-en-24-horas-con-aws-ses-29ok)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
