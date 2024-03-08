@@ -173,13 +173,6 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/medesko">Mohamed KEITA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bsneider">
-        <img src="https://avatars2.githubusercontent.com/u/54788551" width="100px;" alt="bsneider"/>
-      </a>
-      <br />
-      <a href="https://github.com/bsneider">Brandon Sneider</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/arielvinas">
         <img src="https://avatars2.githubusercontent.com/u/9087112" width="100px;" alt="arielvinas"/>
       </a>
@@ -200,8 +193,6 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <br />
       <a href="https://github.com/seyal84">seyal84</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/PUSH-PRAG">
         <img src="https://avatars2.githubusercontent.com/u/25321116" width="100px;" alt="PUSH-PRAG"/>
@@ -209,6 +200,8 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <br />
       <a href="https://github.com/PUSH-PRAG">Pushparaj</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/alopezt24">
         <img src="https://avatars2.githubusercontent.com/u/11953522" width="100px;" alt="alopezt24"/>
@@ -250,6 +243,13 @@ Dart                     1 repo              ░░░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/selvakumarsai">selvakumarsai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/juju-ChewVacca">
+        <img src="https://avatars2.githubusercontent.com/u/150292973" width="100px;" alt="juju-ChewVacca"/>
+      </a>
+      <br />
+      <a href="https://github.com/juju-ChewVacca">juju_ChewVacca</a>
     </td>
   </tr>
 </table>
