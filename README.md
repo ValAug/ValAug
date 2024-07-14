@@ -173,18 +173,18 @@ Dart                     1 repo              █░░░░░░░░░░�
       <a href="https://github.com/medesko">Mohamed KEITA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/seyal84">
-        <img src="https://avatars2.githubusercontent.com/u/30797156" width="100px;" alt="seyal84"/>
-      </a>
-      <br />
-      <a href="https://github.com/seyal84">seyal84</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/arielvinas">
         <img src="https://avatars2.githubusercontent.com/u/9087112" width="100px;" alt="arielvinas"/>
       </a>
       <br />
       <a href="https://github.com/arielvinas">Ariel Viñas</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seyal84">
+        <img src="https://avatars2.githubusercontent.com/u/30797156" width="100px;" alt="seyal84"/>
+      </a>
+      <br />
+      <a href="https://github.com/seyal84">seyal84</a>
     </td>
     <td align="center">
       <a href="https://github.com/alopezt24">
