@@ -144,11 +144,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Desplegando 50 S3 con el Mismo Nombre usando Terraform](https://dev.to/aws-espanol/desplegando-50-s3-con-el-mismo-nombre-usando-terraform-ob6)
+- [Deploying 50 S3 Buckets with the Same Name using Terraform](https://dev.to/valaug/deploying-50-s3-buckets-with-the-same-name-using-terraform-4131)
+- [Deploying 50 S3 Buckets with the Same Name using Terraform](https://dev.to/aws-builders/deploying-50-s3-buckets-with-the-same-name-using-terraform-3oh3)
 - [Conviértete en un AWS Builder: Oportunidades, Beneficios y Cómo Aplicar | AWS Community Builders](https://dev.to/aws-espanol/conviertete-en-un-aws-builder-oportunidades-beneficios-y-como-aplicar-aws-community-builders-3mhl)
 - [Conviértete en un AWS Builder: Oportunidades, Beneficios y Cómo Aplicar | AWS Community Builders](https://dev.to/aws-builders/conviertete-en-un-aws-builder-oportunidades-beneficios-y-como-aplicar-aws-community-builders-b3a)
-- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-espanol/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4nmi)
-- [Terraform y la Nube: Compatible con AWS, Azure, Google Cloud y Más](https://dev.to/aws-builders/terraform-y-la-nube-compatible-con-aws-azure-google-cloud-y-mas-4im6)
-- [Del caos a la eficiencia: Descubre el poder de DevOps](https://dev.to/aws-builders/del-caos-a-la-eficiencia-descubre-el-poder-de-devops-5931)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
