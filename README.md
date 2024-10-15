@@ -141,11 +141,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Monitoreo de Costos de AWS Lambdas con Terraform](https://dev.to/aws-espanol/monitoreo-de-costos-de-aws-lambdas-con-terraform-43oa)
 - [Desplegando 50 S3 con el Mismo Nombre usando Terraform](https://dev.to/aws-espanol/desplegando-50-s3-con-el-mismo-nombre-usando-terraform-ob6)
 - [Deploying 50 S3 Buckets with the Same Name using Terraform](https://dev.to/valaug/deploying-50-s3-buckets-with-the-same-name-using-terraform-4131)
 - [Deploying 50 S3 Buckets with the Same Name using Terraform](https://dev.to/aws-builders/deploying-50-s3-buckets-with-the-same-name-using-terraform-3oh3)
 - [Conviértete en un AWS Builder: Oportunidades, Beneficios y Cómo Aplicar | AWS Community Builders](https://dev.to/aws-espanol/conviertete-en-un-aws-builder-oportunidades-beneficios-y-como-aplicar-aws-community-builders-3mhl)
-- [Conviértete en un AWS Builder: Oportunidades, Beneficios y Cómo Aplicar | AWS Community Builders](https://dev.to/aws-builders/conviertete-en-un-aws-builder-oportunidades-beneficios-y-como-aplicar-aws-community-builders-b3a)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
