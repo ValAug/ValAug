@@ -57,7 +57,7 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -102,12 +102,12 @@ Sunday                   83 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Terraform                2 hrs 13 mins       ███████████████████░░░░░░   74.09 % 
-Markdown                 46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Terraform                1 hr 50 mins        ████████████████████░░░░░   81.20 % 
+Markdown                 24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HCL** 
@@ -127,7 +127,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2024 01:47:52 UTC
+ Last Updated on 18/10/2024 01:48:12 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
