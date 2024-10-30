@@ -228,7 +228,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/15918363" width="100px;" alt="xbalaji"/>
       </a>
       <br />
-      <a href="https://github.com/xbalaji">Balaji (xbalaji) Venkataraman</a>
+      <a href="https://github.com/xbalaji">Balaji (xbalaji) V</a>
     </td>
     <td align="center">
       <a href="https://github.com/gopalagabbita">
