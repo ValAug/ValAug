@@ -102,10 +102,10 @@ Sunday                   83 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HCL** 
@@ -125,7 +125,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 01:59:32 UTC
+ Last Updated on 11/12/2024 01:57:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
