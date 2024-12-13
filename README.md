@@ -222,18 +222,18 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/Jineshkumar1">Jinesh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gopalagabbita">
-        <img src="https://avatars2.githubusercontent.com/u/107900800" width="100px;" alt="gopalagabbita"/>
-      </a>
-      <br />
-      <a href="https://github.com/gopalagabbita">Gopala Gabbita</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xbalaji">
         <img src="https://avatars2.githubusercontent.com/u/15918363" width="100px;" alt="xbalaji"/>
       </a>
       <br />
       <a href="https://github.com/xbalaji">Balaji (xbalaji) V</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gopalagabbita">
+        <img src="https://avatars2.githubusercontent.com/u/107900800" width="100px;" alt="gopalagabbita"/>
+      </a>
+      <br />
+      <a href="https://github.com/gopalagabbita">Gopala Gabbita</a>
     </td>
     <td align="center">
       <a href="https://github.com/techcontrib">
