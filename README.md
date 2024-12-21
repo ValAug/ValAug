@@ -142,11 +142,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [A Beginners Guide to Serverless API Gateway Authentication with Lambda Authorizer](https://dev.to/aws-builders/a-beginners-guide-to-serverless-api-gateway-authentication-with-lambda-authorizer-1ach)
 - [Desbloqueando el Futuro de la Gestión de Edificios con AWS IoT](https://dev.to/aws-espanol/desbloqueando-el-futuro-de-la-gestion-de-edificios-con-aws-iot-3k23)
 - [Unlocking the Future of Building Management with AWS IoT](https://dev.to/aws-builders/unlocking-the-future-of-building-management-with-aws-iot-2g73)
 - [Monitoring AWS Lambda Costs with Terraform.](https://dev.to/aws-builders/monitoring-aws-lambda-costs-with-terraform-3agn)
 - [Monitoreo de Costos de AWS Lambdas con Terraform.](https://dev.to/aws-espanol/monitoreo-de-costos-de-aws-lambdas-con-terraform-43oa)
-- [Desplegando 50 S3 con el Mismo Nombre usando Terraform](https://dev.to/aws-espanol/desplegando-50-s3-con-el-mismo-nombre-usando-terraform-ob6)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
