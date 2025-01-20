@@ -217,18 +217,18 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/superissy">Seun Musa</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Jineshkumar1">
-        <img src="https://avatars2.githubusercontent.com/u/85137150" width="100px;" alt="Jineshkumar1"/>
-      </a>
-      <br />
-      <a href="https://github.com/Jineshkumar1">Jinesh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xbalaji">
         <img src="https://avatars2.githubusercontent.com/u/15918363" width="100px;" alt="xbalaji"/>
       </a>
       <br />
       <a href="https://github.com/xbalaji">Balaji (xbalaji) V</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jineshkumar1">
+        <img src="https://avatars2.githubusercontent.com/u/85137150" width="100px;" alt="Jineshkumar1"/>
+      </a>
+      <br />
+      <a href="https://github.com/Jineshkumar1">Jinesh</a>
     </td>
     <td align="center">
       <a href="https://github.com/gopalagabbita">
