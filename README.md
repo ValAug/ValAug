@@ -140,11 +140,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Secure Your AWS Pipeline: Step-by-Step Guide to VPC Integration](https://dev.to/aws-builders/secure-your-aws-pipeline-step-by-step-guide-to-vpc-integration-4n5i)
 - [Lee esto antes de implementar S3 y CloudFront usando Terraform.](https://dev.to/aws-builders/lee-esto-antes-de-implementar-s3-y-cloudfront-usando-terraform-3399)
 - [Lee esto antes de implementar S3 y CloudFront usando Terraform.](https://dev.to/aws-espanol/lee-esto-antes-de-implementar-s3-y-cloudfront-usando-terraform-4ia)
 - [Una Guía para Principiantes sobre la Autenticación usando API Gateway y Lambda Authorizer](https://dev.to/aws-espanol/una-guia-para-principiantes-sobre-la-autenticacion-del-api-gateway-lambda-authorizer-e0i)
 - [A Beginners Guide to Serverless API Gateway Authentication with Lambda Authorizer](https://dev.to/aws-builders/a-beginners-guide-to-serverless-api-gateway-authentication-with-lambda-authorizer-1ach)
-- [Desbloqueando el Futuro de la Gestión de Edificios con AWS IoT](https://dev.to/aws-espanol/desbloqueando-el-futuro-de-la-gestion-de-edificios-con-aws-iot-3k23)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
