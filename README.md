@@ -57,9 +57,9 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.0%20thousand%20lines%20of%20code-blue)
 
@@ -102,14 +102,14 @@ Sunday                   83 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Terraform                3 hrs 3 mins        █████████████████░░░░░░░░   69.19 % 
-Markdown                 1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-HCL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Terraform                3 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.70 % 
+Markdown                 1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+YAML                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HCL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HCL** 
@@ -129,7 +129,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 01:47:17 UTC
+ Last Updated on 06/02/2025 01:47:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
