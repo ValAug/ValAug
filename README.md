@@ -163,7 +163,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/24217442" width="100px;" alt="jbontech"/>
       </a>
       <br />
-      <a href="https://github.com/jbontech">Jothibasu</a>
+      <a href="https://github.com/jbontech">JothiBasu</a>
     </td>
     <td align="center">
       <a href="https://github.com/gmaheshraju">
