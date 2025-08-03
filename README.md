@@ -192,20 +192,20 @@ Dart                     1 repo              ░░░░░░░░░░░�
       <a href="https://github.com/oluwaseunmusa">Seun Musa</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alopezt24">
-        <img src="https://avatars2.githubusercontent.com/u/11953522" width="100px;" alt="alopezt24"/>
-      </a>
-      <br />
-      <a href="https://github.com/alopezt24">Andres Lopez</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/arielvinas">
         <img src="https://avatars2.githubusercontent.com/u/9087112" width="100px;" alt="arielvinas"/>
       </a>
       <br />
       <a href="https://github.com/arielvinas">Ariel Viñas</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alopezt24">
+        <img src="https://avatars2.githubusercontent.com/u/11953522" width="100px;" alt="alopezt24"/>
+      </a>
+      <br />
+      <a href="https://github.com/alopezt24">Andres Lopez</a>
     </td>
     <td align="center">
       <a href="https://github.com/PUSH-PRAG">
