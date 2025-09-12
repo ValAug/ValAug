@@ -140,11 +140,11 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [AWS Summit Toronto 2025 Reflexiones de Dos Días Inspiradores](https://dev.to/aws-espanol/aws-summit-toronto-2025-reflexiones-de-dos-dias-inspiradores-3m9n)
+- [AWS Summit Toronto 2025 Reflections from Two Inspiring Days](https://dev.to/aws-builders/aws-summit-toronto-2025-reflections-from-two-inspiring-days-1imb)
 - [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
 - [How to Pass the AWS Solutions Architect Professional Certification Like a Real Pro](https://dev.to/aws-builders/how-to-pass-the-aws-solutions-architect-professional-certification-like-a-real-pro-3j0j)
 - [Secure Your AWS Pipeline: Step-by-Step Guide to VPC Integration-part 2](https://dev.to/aws-builders/secure-your-aws-pipeline-step-by-step-guide-to-vpc-integration-part-2-hdh)
-- [Secure Your AWS Pipeline: Step-by-Step Guide to VPC Integration](https://dev.to/aws-builders/secure-your-aws-pipeline-step-by-step-guide-to-vpc-integration-4n5i)
-- [Lee esto antes de implementar S3 y CloudFront usando Terraform.](https://dev.to/aws-builders/lee-esto-antes-de-implementar-s3-y-cloudfront-usando-terraform-3399)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
