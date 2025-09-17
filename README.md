@@ -57,8 +57,6 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108.5%20thousand%20lines%20of%20code-blue)
@@ -75,40 +73,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                480 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
-🌆 Daytime                739 commits         ████████████░░░░░░░░░░░░░   47.83 % 
-🌃 Evening                306 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   278 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Tuesday                  307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Wednesday                292 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Thursday                 241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Friday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Sunday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-Terraform                1 hr 45 mins        ████████████████████████░   95.63 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-
-🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HCL** 
 
 ```text
@@ -126,7 +90,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 01:53:37 UTC
+ Last Updated on 17/09/2025 01:53:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
