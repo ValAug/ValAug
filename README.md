@@ -57,6 +57,8 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.9%20thousand%20lines%20of%20code-blue)
@@ -65,7 +67,7 @@
 
 > 📦 22.8 kB Used in GitHub's Storage 
  > 
-> 🏆 328 Contributions in the Year 2025
+> 🏆 329 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,6 +75,39 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                484 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌆 Daytime                748 commits         ████████████░░░░░░░░░░░░░   48.01 % 
+🌃 Evening                306 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   281 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Tuesday                  307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Wednesday                295 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Friday                   266 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Sunday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+Terraform                51 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  51 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HCL** 
 
 ```text
@@ -90,7 +125,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 01:53:46 UTC
+ Last Updated on 04/10/2025 01:50:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
