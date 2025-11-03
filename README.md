@@ -57,13 +57,15 @@
 ![Js](https://img.shields.io/badge/-Js-000000?style=flat&logo=Js)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2053%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 22.9 kB Used in GitHub's Storage 
+> 📦 22.8 kB Used in GitHub's Storage 
  > 
 > 🏆 414 Contributions in the Year 2025
  > 
@@ -125,7 +127,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 02:08:48 UTC
+ Last Updated on 03/11/2025 02:07:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
