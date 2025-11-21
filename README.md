@@ -70,25 +70,26 @@
 <!--END_SECTION:waka-->
 
 
-**🐱 My GitHub Data** 
+## 🐱 My GitHub Data
 
-> 📦 22.9 kB Used in GitHub's Storage 
- > 
-> 🏆 523 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
+### 📦 Storage & Activity
+- **Storage Used:** 22.9 kB  
+- **2025 Contributions:** 🏆 523  
+- **Public Repos:** 📜 31  
+- **Private Repos:** 🔑 9  
+- **Hiring Status:** 🚫 Not Open to Hire  
+
+---
+
+## ⏰ Coding Schedule
+
+### **I'm an Early 🐤 Bird**
 
 ```text
-🌞 Morning                705 commits         █████████░░░░░░░░░░░░░░░░   34.06 % 
-🌆 Daytime                1017 commits        ████████████░░░░░░░░░░░░░   49.13 % 
-🌃 Evening                328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+🌞 Morning                705 commits   █████████░░░░░░░░░░░░░░░░   34.06%
+🌆 Daytime                1017 commits  █████████████░░░░░░░░░░░░   49.13%
+🌃 Evening                328 commits   ████░░░░░░░░░░░░░░░░░░░░   15.85%
+🌙 Night                  20 commits    ░░░░░░░░░░░░░░░░░░░░░░░░    0.97%
 ```
 📅 **I'm Most Productive on Wednesday** 
 
