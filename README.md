@@ -147,11 +147,16 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
+- [Adding one more thought here.
+
+Least privilege is not about locking everything down.
+It’s about making failure predictable.
+
+That shift alone changed how I design IAM policies.](https://dev.to/valaug/adding-one-more-thought-here-least-privilege-is-not-about-locking-everything-down-its-about-363l)
 - [IAM Least Privilege: What Everyone Gets Wrong &lpar;and How to Fix It with Terraform&rpar;](https://dev.to/aws-builders/iam-least-privilege-what-everyone-gets-wrong-and-how-to-fix-it-with-terraform-2k5j)
 - [AWS Summit Toronto 2025: De la Supervisión Humana a la IA Agéntica](https://dev.to/aws-espanol/aws-summit-toronto-2025-reflexiones-de-dos-dias-inspiradores-3m9n)
 - [AWS Summit Toronto 2025: From Human Oversight to Agentic AI](https://dev.to/aws-builders/aws-summit-toronto-2025-reflections-from-two-inspiring-days-1imb)
 - [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
-- [How to Pass the AWS Solutions Architect Professional Certification Like a Real Pro](https://dev.to/aws-builders/how-to-pass-the-aws-solutions-architect-professional-certification-like-a-real-pro-3j0j)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
