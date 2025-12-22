@@ -152,7 +152,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 Least privilege is not about locking everything down.
 It’s about making failure predictable.
 
-That shift alone changed how I design IAM policies.](https://dev.to/valaug/adding-one-more-thought-here-least-privilege-is-not-about-locking-everything-down-its-about-363l)
+That shift alone changed how I design IAM policies.](https://dev.to/aws-builders/adding-one-more-thought-here-least-privilege-is-not-about-locking-everything-down-its-about-363l)
 - [IAM Least Privilege: What Everyone Gets Wrong &lpar;and How to Fix It with Terraform&rpar;](https://dev.to/aws-builders/iam-least-privilege-what-everyone-gets-wrong-and-how-to-fix-it-with-terraform-2k5j)
 - [AWS Summit Toronto 2025: De la Supervisión Humana a la IA Agéntica](https://dev.to/aws-espanol/aws-summit-toronto-2025-reflexiones-de-dos-dias-inspiradores-3m9n)
 - [AWS Summit Toronto 2025: From Human Oversight to Agentic AI](https://dev.to/aws-builders/aws-summit-toronto-2025-reflections-from-two-inspiring-days-1imb)
