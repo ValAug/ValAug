@@ -213,18 +213,18 @@ iam-least-priv-lambda-s3/
       <a href="https://github.com/medesko">Mohamed KEITA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/seyal84">
-        <img src="https://avatars2.githubusercontent.com/u/30797156" width="100px;" alt="seyal84"/>
-      </a>
-      <br />
-      <a href="https://github.com/seyal84">seyal84</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/oluwaseunmusa">
         <img src="https://avatars2.githubusercontent.com/u/80710703" width="100px;" alt="oluwaseunmusa"/>
       </a>
       <br />
       <a href="https://github.com/oluwaseunmusa">Seun Musa</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/seyal84">
+        <img src="https://avatars2.githubusercontent.com/u/30797156" width="100px;" alt="seyal84"/>
+      </a>
+      <br />
+      <a href="https://github.com/seyal84">seyal84</a>
     </td>
     <td align="center">
       <a href="https://github.com/arielvinas">
@@ -257,18 +257,18 @@ iam-least-priv-lambda-s3/
       <a href="https://github.com/Jineshkumar1">Jinesh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/IskanderNovena">
-        <img src="https://avatars2.githubusercontent.com/u/10208419" width="100px;" alt="IskanderNovena"/>
-      </a>
-      <br />
-      <a href="https://github.com/IskanderNovena">Sebastiaan Brozius</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xbalaji">
         <img src="https://avatars2.githubusercontent.com/u/15918363" width="100px;" alt="xbalaji"/>
       </a>
       <br />
       <a href="https://github.com/xbalaji">Balaji (xbalaji) V</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IskanderNovena">
+        <img src="https://avatars2.githubusercontent.com/u/10208419" width="100px;" alt="IskanderNovena"/>
+      </a>
+      <br />
+      <a href="https://github.com/IskanderNovena">Sebastiaan Brozius</a>
     </td>
     <td align="center">
       <a href="https://github.com/techcontrib">
