@@ -64,8 +64,6 @@
 ## 📊 GitHub Stats & Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2015%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172.71%20thousand%20lines%20of%20code-blue?style=flat)
@@ -82,39 +80,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                987 commits         █████████░░░░░░░░░░░░░░░░   34.81 % 
-🌆 Daytime                1468 commits        █████████████░░░░░░░░░░░░   51.78 % 
-🌃 Evening                360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   412 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Tuesday                  530 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Wednesday                567 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday                 659 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Friday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Saturday                 110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Sunday                   124 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Toronto
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HCL** 
 
 ```text
@@ -132,7 +97,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 04:09:32 UTC
+ Last Updated on 18/05/2026 04:22:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
