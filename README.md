@@ -254,7 +254,7 @@ iam-least-priv-lambda-s3/
         <img src="https://avatars2.githubusercontent.com/u/85137150" width="100px;" alt="Jineshkumar1"/>
       </a>
       <br />
-      <a href="https://github.com/Jineshkumar1">Jinesh</a>
+      <a href="https://github.com/Jineshkumar1">Jineshkumar Patel</a>
     </td>
     <td align="center">
       <a href="https://github.com/xbalaji">
