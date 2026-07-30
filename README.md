@@ -64,21 +64,23 @@
 ## 📊 GitHub Stats & Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%204%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-165.93%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 24.1 kB Used in GitHub's Storage 
+> 📦 24.8 kB Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2026
+> 🏆 223 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -122,11 +124,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in HCL** 
 
 ```text
-HCL                      54 repos            ████████████████████░░░░░   80.60 % 
-Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+HCL                      54 repos            ████████████████████░░░░░   79.41 % 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
@@ -136,7 +138,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:23:21 UTC
+ Last Updated on 30/07/2026 02:56:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
