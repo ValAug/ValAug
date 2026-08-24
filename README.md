@@ -205,13 +205,6 @@ iam-least-priv-lambda-s3/
       <a href="https://github.com/jbontech">JothiBasu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gmaheshraju">
-        <img src="https://avatars2.githubusercontent.com/u/21260123" width="100px;" alt="gmaheshraju"/>
-      </a>
-      <br />
-      <a href="https://github.com/gmaheshraju">Mahesh Guntumadugu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/medesko">
         <img src="https://avatars2.githubusercontent.com/u/1578048" width="100px;" alt="medesko"/>
       </a>
@@ -239,8 +232,6 @@ iam-least-priv-lambda-s3/
       <br />
       <a href="https://github.com/arielvinas">Ariel Viñas</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/alopezt24">
         <img src="https://avatars2.githubusercontent.com/u/11953522" width="100px;" alt="alopezt24"/>
@@ -248,6 +239,8 @@ iam-least-priv-lambda-s3/
       <br />
       <a href="https://github.com/alopezt24">Andres Lopez</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/PUSH-PRAG">
         <img src="https://avatars2.githubusercontent.com/u/25321116" width="100px;" alt="PUSH-PRAG"/>
@@ -289,6 +282,13 @@ iam-least-priv-lambda-s3/
       </a>
       <br />
       <a href="https://github.com/gopalagabbita">Gopala Gabbita</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/selvakumarsai">
+        <img src="https://avatars2.githubusercontent.com/u/88017125" width="100px;" alt="selvakumarsai"/>
+      </a>
+      <br />
+      <a href="https://github.com/selvakumarsai">selvakumarsai</a>
     </td>
   </tr>
 </table>
