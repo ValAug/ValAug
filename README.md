@@ -153,37 +153,16 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 # My blog posts list :pencil2:
 <!-- BLOG-POST-LIST:START -->
-- [# En progreso. 
-iam-least-priv-lambda-s3/
- README.md
- .gitignore
- lambda/
- lambda_function.py
- requirements.txt
- terraform/
- versions.tf
- provider.tf
- variables.tf
- main.tf
- outputs.tf](https://dev.to/valaug/-en-progreso-iam-least-priv-lambda-s3-readmemd-gitignore-lambda--1a75)
-- [iam-least-priv-lambda-s3/
- README.md
- .gitignore
- lambda/
- lambda_function.py
- requirements.txt
- terraform/
- versions.tf
- provider.tf
- variables.tf
- main.tf
- outputs.tf
----In progress---](https://dev.to/valaug/iam-least-priv-lambda-s3-readmemd-gitignore-lambda-lambdafunctionpy--ap6)
-- [Optimiza tus recursos con un monitoreo efectivo de costos en AWS Lambdas usando Terraform
-
-¡Descubre cómo puedes maximizar la eficiencia de tus aplicaciones serverless!](https://dev.to/valaug/optimiza-tus-recursos-con-un-monitoreo-efectivo-de-costos-en-aws-lambdas-usando-terraform-2n1j)
 - [Cómo solucionarlo con Terraform?](https://dev.to/valaug/como-solucionarlo-con-terraform-dcb)
 - [El error de seguridad más común es “Dale Admin y Ya” Cómo solucionarlo con Terraform](https://dev.to/aws-espanol/el-error-de-seguridad-mas-comun-es-dale-admin-y-ya-o82)
+- [Adding one more thought here.
+
+Least privilege is not about locking everything down.
+It’s about making failure predictable.
+
+That shift alone changed how I design IAM policies.](https://dev.to/aws-builders/adding-one-more-thought-here-least-privilege-is-not-about-locking-everything-down-its-about-363l)
+- [IAM Least Privilege: What Everyone Gets Wrong &lpar;and How to Fix It with Terraform&rpar;](https://dev.to/aws-builders/iam-least-privilege-what-everyone-gets-wrong-and-how-to-fix-it-with-terraform-2k5j)
+- [AWS Summit Toronto 2025: De la Supervisión Humana a la IA Agéntica](https://dev.to/aws-espanol/aws-summit-toronto-2025-reflexiones-de-dos-dias-inspiradores-3m9n)
 <!-- BLOG-POST-LIST:END -->
 
 # Followers
