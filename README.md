@@ -38,11 +38,11 @@ I focus on cloud infrastructure, infrastructure as code, and automation, with an
 Practical notes on cloud security, infrastructure automation, and the AWS community, in English and Spanish.
 
 <!-- BLOG-POST-LIST:START -->
-- **EN** · [IAM Least Privilege: What Everyone Gets Wrong (and How to Fix It with Terraform)](https://dev.to/aws-builders/iam-least-privilege-what-everyone-gets-wrong-and-how-to-fix-it-with-terraform-2k5j)
-- **ES** · [El error de seguridad más común es “Dale Admin y Ya”: cómo solucionarlo con Terraform](https://dev.to/aws-espanol/el-error-de-seguridad-mas-comun-es-dale-admin-y-ya-o82)
-- **EN** · [AWS Summit Toronto 2025: From Human Oversight to Agentic AI](https://dev.to/aws-builders/aws-summit-toronto-2025-reflections-from-two-inspiring-days-1imb)
-- **ES** · [AWS Summit Toronto 2025: De la Supervisión Humana a la IA Agéntica](https://dev.to/aws-espanol/aws-summit-toronto-2025-reflexiones-de-dos-dias-inspiradores-3m9n)
-- **ES** · [Cómo aprobar el examen de AWS Solutions Architect Professional como un verdadero pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
+- [El error de seguridad más común es “Dale Admin y Ya” Cómo solucionarlo con Terraform](https://dev.to/aws-espanol/el-error-de-seguridad-mas-comun-es-dale-admin-y-ya-o82)
+- [IAM Least Privilege: What Everyone Gets Wrong &lpar;and How to Fix It with Terraform&rpar;](https://dev.to/aws-builders/iam-least-privilege-what-everyone-gets-wrong-and-how-to-fix-it-with-terraform-2k5j)
+- [AWS Summit Toronto 2025: De la Supervisión Humana a la IA Agéntica](https://dev.to/aws-espanol/aws-summit-toronto-2025-reflexiones-de-dos-dias-inspiradores-3m9n)
+- [AWS Summit Toronto 2025: From Human Oversight to Agentic AI](https://dev.to/aws-builders/aws-summit-toronto-2025-reflections-from-two-inspiring-days-1imb)
+- [Cómo Aprobar el Examen de AWS Solutions Architect Professional Como un Verdadero Pro](https://dev.to/aws-espanol/como-aprobar-el-examen-de-aws-solutions-architect-professional-como-un-verdadero-pro-lf5)
 <!-- BLOG-POST-LIST:END -->
 
 [More articles on DEV.to →](https://dev.to/valaug)
