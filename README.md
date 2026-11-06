@@ -62,7 +62,40 @@ Practical notes on cloud security, infrastructure automation, and the AWS commun
 <summary>More development activity</summary>
 
 <!--START_SECTION:waka-->
-Activity summaries will appear here after the metrics workflow is configured to hide empty reports.
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-257.03%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 72.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 473 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I Mostly Code in HCL** 
+
+```text
+HCL                      64 repos            ███████████████████░░░░░░   76.19 % 
+Python                   14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
+
+
+ Last Updated on 06/11/2026 06:14:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
