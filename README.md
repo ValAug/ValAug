@@ -64,15 +64,15 @@ Practical notes on cloud security, infrastructure automation, and the AWS commun
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-339.57%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360.04%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 72.9 kB Used in GitHub's Storage 
  > 
-> 🏆 481 Contributions in the Year 2026
+> 🏆 488 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,21 +83,21 @@ Practical notes on cloud security, infrastructure automation, and the AWS commun
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2344 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
-🌆 Daytime                3273 commits        █████████████░░░░░░░░░░░░   52.23 % 
-🌃 Evening                630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+🌞 Morning                2378 commits        █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌆 Daytime                3325 commits        █████████████░░░░░░░░░░░░   52.34 % 
+🌃 Evening                630 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1083 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Tuesday                  1247 commits        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Wednesday                1091 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Thursday                 1144 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Friday                   1099 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Saturday                 430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Monday                   1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Tuesday                  1253 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Wednesday                1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Thursday                 1173 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Friday                   1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Saturday                 430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 
@@ -122,11 +122,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in HCL** 
 
 ```text
-HCL                      65 repos            ███████████████████░░░░░░   76.47 % 
-Python                   14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+HCL                      67 repos            ███████████████████░░░░░░   77.91 % 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
@@ -136,7 +136,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2026 06:18:01 UTC
+ Last Updated on 14/11/2026 06:01:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
