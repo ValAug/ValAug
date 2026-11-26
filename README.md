@@ -66,13 +66,13 @@ Practical notes on cloud security, infrastructure automation, and the AWS commun
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.86%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-363.04%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 73.0 kB Used in GitHub's Storage 
  > 
-> 🏆 525 Contributions in the Year 2026
+> 🏆 527 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,18 +83,18 @@ Practical notes on cloud security, infrastructure automation, and the AWS commun
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2396 commits        █████████░░░░░░░░░░░░░░░░   37.50 % 
-🌆 Daytime                3339 commits        █████████████░░░░░░░░░░░░   52.25 % 
-🌃 Evening                635 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌞 Morning                2397 commits        █████████░░░░░░░░░░░░░░░░   37.50 % 
+🌆 Daytime                3340 commits        █████████████░░░░░░░░░░░░   52.25 % 
+🌃 Evening                635 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   1100 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Tuesday                  1258 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Wednesday                1115 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Thursday                 1198 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Tuesday                  1258 commits        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Wednesday                1117 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Thursday                 1198 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 Friday                   1116 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 Saturday                 430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
@@ -122,11 +122,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in HCL** 
 
 ```text
-HCL                      68 repos            ████████████████████░░░░░   78.16 % 
-Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+HCL                      69 repos            ████████████████████░░░░░   78.41 % 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 
@@ -136,7 +136,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValAug/ValAug/master/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 08:09:14 UTC
+ Last Updated on 26/11/2026 07:59:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
